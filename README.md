@@ -34,16 +34,19 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
 ## Counting Sort
