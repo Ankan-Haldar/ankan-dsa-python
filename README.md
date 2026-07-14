@@ -34,6 +34,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,9 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
