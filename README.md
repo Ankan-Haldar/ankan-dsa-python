@@ -43,6 +43,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
@@ -75,6 +76,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0242-valid-anagram) |
 ## Trie
@@ -85,4 +87,8 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
