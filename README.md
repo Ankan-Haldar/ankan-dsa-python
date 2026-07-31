@@ -42,6 +42,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
+| [0125-valid-palindrome](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -70,5 +71,6 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
