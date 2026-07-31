@@ -33,6 +33,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
@@ -71,6 +72,11 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
