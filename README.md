@@ -38,6 +38,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0035-search-insert-position) |
 | [0455-assign-cookies](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
@@ -99,4 +100,5 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
