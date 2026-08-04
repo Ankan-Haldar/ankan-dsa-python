@@ -102,6 +102,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0704-binary-search) |
@@ -110,4 +111,12 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
