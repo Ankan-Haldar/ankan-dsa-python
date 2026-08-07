@@ -42,6 +42,7 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | [0704-binary-search](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
 ## Two Pointers
@@ -59,11 +60,13 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 | [0242-valid-anagram](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/1122-relative-sort-array) |
 ## Hash Table
@@ -119,4 +122,24 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
