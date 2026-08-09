@@ -142,4 +142,12 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
