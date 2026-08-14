@@ -155,8 +155,13 @@ This repository contains my Data Structures and Algorithms (DSA) practice implem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ankan-Haldar/ankan-dsa-python/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
